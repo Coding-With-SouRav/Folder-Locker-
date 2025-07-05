@@ -1,4 +1,4 @@
-![Screenshot 2025-07-05 094550](https://github.com/user-attachments/assets/0c2077f7-5d77-455f-82df-e453e2b16ac2)### SecureLock Pro - Folder Locking Application
+### SecureLock Pro - Folder Locking Application
 
 This Python application provides a secure way to hide and unhide folders using a master password. Here's a detailed breakdown of its features:
 
@@ -85,7 +85,7 @@ balance between user-friendly interface and robust security measures for protect
 
 # Demo Images
 
-The application provides a ![Screenshot 2025-07-05 094328](https://github.com/user-attachments/assets/13ac18d2-e819-46ec-8b7b-1a2713b984e5)
+![Screenshot 2025-07-05 094328](https://github.com/user-attachments/assets/13ac18d2-e819-46ec-8b7b-1a2713b984e5)
 ![Screenshot 2025-07-05 094405](https://github.com/user-attachments/assets/342c2fce-844b-488b-ba99-8b8e58ec2d8d)
 ![Screenshot 2025-07-05 094428](https://github.com/user-attachments/assets/243296fd-1b10-4252-a6b2-e3e50abebca4)
 ![Screenshot 2025-07-05 094508](https://github.com/user-attachments/assets/3f54c505-9956-485b-8548-e3e82a16fbf7)
